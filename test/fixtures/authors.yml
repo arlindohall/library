@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+lengel:
+  first_name: "Madeline"
+  last_name: "L'Engel"
+
+stevenson:
+  first_name: "Robert"
+  last_name: "Stevenson"

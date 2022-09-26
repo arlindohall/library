@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+treasure_island:
+  name: "Treasure Island"
+  author: stevenson
+  genre: fiction
+  barcode: "X123"
+
+wrinkle_in_time:
+  name: "A Wrinkle In Time"
+  author: lengel
+  genre: fantasy
+  barcode: "Y456"
